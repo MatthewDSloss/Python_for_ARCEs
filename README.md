@@ -6,3 +6,5 @@ The pre-lab notebooks contain instruction on the Python semantics, libraries, an
 ## Post-Lab
 The post-lab notebooks contain an annotated set of solutions, recognizing that there are a multitued of approaches to both engineering and programming problems. Students are to be encouraged to explore Python on their own, with notebooks serving as a launching-point for further investigation.
 
+## Hosted on GitHub Pages
+https://matthewdsloss.github.io/Python_for_ARCEs/
